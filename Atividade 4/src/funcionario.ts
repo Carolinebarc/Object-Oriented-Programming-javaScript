@@ -25,7 +25,7 @@ class Funcionario {    // ou export class
    this.horastrabalhadas = this.horastrabalhadas;
    }
 
-   fatiar (horastrabalhadas: number) {
+   Expediente (horastrabalhadas: number) {
    this.horastrabalhadas = horastrabalhadas; 
    
    }
